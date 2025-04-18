@@ -29,24 +29,12 @@ If you encounter any of the above, please contact us in one of the following way
 ### Q3: How do I uninstall the app?
 **A3**: To uninstall the app, follow these steps:
 
-**Android:**
+**Android**:
 1. Go to the Settings menu and select 'Apps' or 'Application Management'.
 2. Select the app you want to delete.
 3. Tap the 'Uninstall' button.
 
-**iPhone:**
+**iPhone**:
 1. Long-press the app you want to delete on the home screen.
 2. When the app icon shakes, tap the 'X' or '-' button on the app icon.
-3. Select 'Delete' to remove the app.
-
-## Contact Support
-
-If you're experiencing issues not covered in our FAQs, please contact our support team:
-
-- **Email**: support@example.com
-- **Support Hours**: Monday to Friday, 9 AM - 5 PM (EST)
-- **Response Time**: We aim to respond to all inquiries within 24-48 hours.
-
-## Feedback and Suggestions
-
-We're always looking to improve our app. If you have suggestions or feedback, please send them to feedback@example.com. 
+3. Select 'Delete' to remove the app. 
