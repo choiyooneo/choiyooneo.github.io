@@ -23,10 +23,10 @@ email: chyoon1985@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to our app support and privacy policy center. Find information about our app,
   get help with issues, and read our privacy policies in English and Korean.
-baseurl: "/webpage" # 여러분의 GitHub 저장소 이름으로 변경하세요. 예: "/my-app-site"
-url: "https://yooknow.github.io" # 여러분의 GitHub 사용자 이름으로 변경하세요. 예: "https://username.github.io"
+baseurl: "" # username.github.io 형식이면 비워두세요
+url: "https://choiyooneo.github.io" # 여러분의 GitHub 사용자 이름으로 변경하세요. 예: "https://username.github.io"
 # twitter_username: jekyllrb
-github_username:  yooknow # GitHub 사용자 이름을 입력하세요
+github_username: choiyooneo # GitHub 사용자 이름을 입력하세요
 
 # Build settings
 # theme: minima
