@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+  <div class="hero-section">
+    <h1>Welcome to {{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+  </div>
+
+  <div class="menu-grid">
+    <div class="menu-section">
+      <h2>Privacy Policy</h2>
+      <div class="button-group">
+        <a href="{{ "/privacy-policy/en/" | relative_url }}" class="button">English</a>
+        <a href="{{ "/privacy-policy/ko/" | relative_url }}" class="button">한국어</a>
+      </div>
+    </div>
+    
+    <div class="menu-section">
+      <h2>App Support</h2>
+      <div class="button-group">
+        <a href="{{ "/app-support/en/" | relative_url }}" class="button">English</a>
+        <a href="{{ "/app-support/ko/" | relative_url }}" class="button">한국어</a>
+      </div>
+    </div>
+  </div>
+</div> 

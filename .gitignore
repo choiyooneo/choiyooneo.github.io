@@ -1,0 +1,20 @@
+# Jekyll 사이트용 .gitignore 파일
+
+# 빌드 출력 디렉토리
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Docker 데이터
+.jekyll-docker/
+
+# 로컬 설정
+.bundle/
+vendor/
+
+# 시스템 파일
+.DS_Store
+Thumbs.db
+*.swp
+*~
